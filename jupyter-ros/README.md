@@ -1,4 +1,3 @@
-# 使用環境
 **OS**: Ubuntu 18.04 bionic  
 **Kernel**: x86_64 Linux 4.15.0-46-generic  
 **CPU**: Intel Core i7-9700K @ 8x 4.9GHz  
